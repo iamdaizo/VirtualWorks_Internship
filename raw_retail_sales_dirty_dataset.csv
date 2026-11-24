@@ -1,0 +1,226 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,City,Product,Category,Quantity,Unit_Price_INR,Discount,Payment_Method,Sales_Channel,Order_Status,Customer_Email
+ORD50168,08-02-2025,CUST1000,Rohan Bose,Mumbai,Laptop,Electronics,5,50972.06,0.05,UPI,Mobile App,Pending,aarav28@example.com
+ORD50145,22-03-2025,CUST1061,Ananya Roy,Chennai,Keyboard,Electronics,1,1558.07,0.1,Debit Card,Mobile App,Delivered,diya84@example.com
+ORD50039,15-01-2025,CUST1051,Rahul Das,Jaipur,Office Chair,Furniture,3,6244.44,0.05,Net Banking,Mobile App,Delivered,rohan76@example.com
+ORD50201,03-07-2025,CUST1050,Ananya Roy,Pune,Wireless Mouse,Electronics,4,889.92,0.05,Cash,Store,canceled,kabir44@example.com
+ORD50038,04-08-2025,CUST1048,Meera Iyer,KOLKATA,Water Bottle,Accessories,4,326.36,0.1,debit card,Store,Returned,ananya63@example.com
+ORD50200,21-11-2025,CUST1051,Arjun Nair,Chennai,Pen Pack,Stationery,4,,0.1,Cash,Store,Cancelled,aarav94@example.com
+ORD50140,01-02-2025,CUST1026,Arjun Nair,Hyderabad,Desk Lamp, Electronics ,five,1204.02,0.15,Net Banking,Store,Cancelled,rahul59@example.com
+ORD50052,03-09-2025,CUST1023,Aarav Sharma,Chennai,Laptop,electronics,5,53727.73,0.15,UPI,Online,Returned,Not provided
+ORD50029,02-11-2025,CUST1040,Rohan Bose,Delhi,Desk Lamp,ELECTRONICS,3,1020.42,0.15,Net Banking,Online,Cancelled,aarav91@example.com
+ORD50092,27-01-2025,CUST1006,Diya Sen,Chennai,Notebook,Stationery,5,67.55,0.15,Cash,Store,Returned,rohan35@example.com
+ORD50203,09-03-2025,CUST1020,Kabir Mehta,Delhi,Laptop,Electronics,4,52825.5,0.1,Debit Card,Online,Cancelled,rahul7@example.com
+ORD50097,28-03-2025,CUST1024,Ishita Gupta,  Hyderabad ,Study Table,Furniture,3,7521.65,0.05,Credit card,Online,PENDING,kabir26@example.com
+ORD50104,27-09-2025,CUST1046,Aarav Sharma,Hyderabad,Pen Pack,Stationery,3,129.92,0.1,Credit Card,Online,Cancelled,meera25@example.com
+ORD50193,27-11-2025,CUST1062,Kabir Mehta,Mumbai,Water Bottle,Accessories,5,370.54,0.05,Debit Card,Store,Delivered,ishita2@example.com
+ORD50149,18-02-2025,CUST1061,Unknown,Bengaluru,Notebook,Stationery,1,65.01,0,debit card,Store,Pending,meera97@example.com
+ORD50049,29-09-2025,CUST1042,Ishita Gupta,Jaipur,Desk Lamp,electronics,3,1116.12,0.1,Debit Card,Store,Pending,diya93@example.com
+ORD50082,02-05-2025,CUST1002,Rahul Das,Chennai,  Laptop ,Electronics,2,50763.46,0,Credit Card,mobile app,Returned,Not provided
+ORD50153,18-03-2025,CUST1056,  Diya Sen ,Bengaluru,Backpack,Accessories,2,1500.08,0.2,Cash,Online,Returned,aarav59@example.com
+ORD50165,27-08-2025,CUST1040,Ananya Roy,Hyderabad,Notebook,STATIONERY,N/A,71.28,0.1,Cash,Online,Pending,rahul3@example.com
+ORD50102,10-07-2025,CUST1052,Ishita Gupta,Kolkata,Backpack,Accessories,5,1380.04,0.1, UPI ,Store,Delivered,missing-at-sign.com
+ORD50055,19-08-2025,CUST1037,Aarav Sharma, bengaluru ,Wireless Mouse,Electronics,2,782.45,0.1,Debit Card,Mobile App,Returned,diya88@example.com
+ORD50217,15-09-2025,CUST1022,Ananya Roy,Kolkata,Wireless Mouse,Electronics,5,845.38,0.15,UPI,Store,Cancelled,kabir42@example.com
+ORD50001,06-05-2025,CUST1013,Arjun Nair,Delhi,Wireless Mouse,Electronics,1,908.06,0.2,Cash,online,Delivered,diya28@example.com
+ORD50072,12-04-2025,CUST1013,Ananya Roy,Pune,Study Table,Furniture,4,8494.67,0.2,Debit Card,Mobile App,Cancelled,kabir3@example.com
+ORD50195,26-04-2025,CUST1021,Meera Iyer,Jaipur,Office Chair,Furniture,3,5744.54,0.2,Net Banking,Online,Delivered,kabir70@example.com
+ORD50098,08-02-2025,CUST1059,Sana Khan,Jaipur,Keyboard,Electronics,5,1330.8,0.2,Net Banking,Store,Cancelled,rahul57@example.com
+ORD50010,02-04-2025,CUST1038,Arjun Nair,Bengaluru,Laptop,Electronics,3,61290.77,0.05,Debit Card,Online,delivered,ishita63@example.com
+ORD50119,30-06-2025,CUST1035,Aarav Sharma,Delhi,Water Bottle,Accessories,3,353.3,0.15,debit card,Mobile App,Pending,aarav19@example.com
+ORD50070,03-04-2025,CUST1010,Sana Khan,Pune,Pen Pack,stationary,5,126.76,0.2,Credit Card,Store,Pending,Not provided
+ORD50020,21-01-2025,CUST1053,  Sana Khan ,Unknown,Desk Lamp,Electronics,2,1139.36,0.1,Credit Card,Mobile App,Cancelled,Not provided
+ORD50101,01-02-2025,CUST1043,Unknown,Mumbai,Water Bottle,Accessories,5,332.56,0,Credit Card,Mobile App,Returned,Not provided
+ORD50192,06-06-2025,CUST1047,Rahul Das,Pune,Keyboard,Electronics,3,1321,0.15,Net Banking,Online,Returned,rohan24@example.com
+ORD50076,13-10-2025,CUST1050,Aarav Sharma,Chennai,Office Chair,Furniture,4,6903.41,0.2,UPI,Store,Cancelled,kabir75@example.com
+ORD50218,08-07-2025,CUST1038,Sana Khan,Bangalore,Wireless Mouse,Electronics,5,859.65,0.15,Not specified,Mobile App,Returned,ananya94@example.com
+ORD50199,06-03-2025,CUST1031,Rahul Das,Hyderabad,Pen Pack,Stationery,1,134.22,0.05,Cash,Store,pending,kabir81@example.com
+ORD50096,06-16-2025,CUST1046,Diya Sen,Pune,Wireless Mouse,Electronics,4,785.55,0,Credit Card,Store,Returned,diya51@example.com
+ORD50081,30-04-2025,CUST1000,Kabir Mehta,MUMBAI,Backpack,Accessories,2,1504.05,0.05,Not specified,Store,Pending,diya85@example.com
+ORD50184,03-09-2025,CUST1064,Rohan Bose,Kolkata,Wireless Mouse,Electronics,4,950.42,0.1,Net Banking,Mobile App,Delivered,diya99@example.com
+ORD50109,12-08-2025,CUST1057,Ishita Gupta,KOLKATA,Water Bottle,Accessories,5,332.31,0.15,UPI,Store,Cancelled,ananya50@example.com
+ORD50005,06-07-2025,CUST1045,Ananya Roy,Chennai,Study Table,Furniture,4,8167.67,0,Net Banking,App,pending,ananya21@example.com
+ORD50154,16-10-2025,CUST1039,Aarav Sharma,Pune,Keyboard,Electronics,5,1404.32,0.1,UPI,Mobile App,PENDING,diya6@example.com
+ORD50017,02-05-2025,CUST1062,Meera Iyer,Bengaluru,Backpack,Accessories,1,1615.01,0.15,UPI,Online,Returned,aarav50@example.com
+ORD50126,08-03-2025,CUST1015,Arjun Nair,MUMBAI,Desk Lamp,Electronics,2,1180.91,0.1,Credit Card, ONLINE ,Cancelled,ananya45@example.com
+ORD50117,24-07-2025,CUST1049,Ishita Gupta,Mumbai,Wireless Mouse,Electronics,3,856.28,0.15,Cash,Store,Cancelled,diya94@example.com
+ORD50113,10-20-2025,CUST1010,Arjun Nair,Hyderabad,Laptop,electronics,5,54480.98,0,Net Banking,Mobile App,Delivered,rohan61@example.com
+ORD50012,28-09-2025,CUST1027,Arjun Nair,Bangalore,Water Bottle,Accessories,5,333.56,0.1,Cash,Mobile App,Cancelled,meera67@example.com
+ORD50074,14-08-2025,CUST1016,Diya Sen,Chennai,Wireless Mouse,Electronics,1,834.52,0.1,Cash,Online,Pending,rahul70@example.com
+ORD50160,03-06-2025,CUST1022,Rohan Bose,Jaipur,Keyboard,Electronics,5,1349.89,0,Debit Card,Mobile App,Returned,ishita90@example.com
+ORD50004,31-05-2025,CUST1024,Diya Sen,Kolkata,Wireless Mouse,Electronics,4,795.4,0.05,Debit Card,Online,Pending,diya49@example.com
+ORD50014,05-02-2025,CUST1027,Arjun Nair,Mumbai,Laptop,Electronics,3,51379.43,0.2,Net Banking,Store,Pending,meera53@example.com
+ORD50157,06-10-2025,CUST1029,Ananya Roy,Jaipur,Laptop,Electronics,3,55693.04,0.1,Credit Card,Store,Pending,diya5@example.com
+ORD50106,26-03-2025,CUST1005,Rohan Bose,Hyderabad,Keyboard,Electronics,5,1514.53,0.05,Cash,Mobile App,Cancelled,meera30@example.com
+ORD50087,20-03-2025,CUST1008,  Diya Sen ,Delhi,Notebook,Stationery,3,64.67,0,Cash,Online,CANCELLED ,rahul72@example.com
+ORD50182,06-16-2025,CUST1050,Ishita Gupta,Delhi,Water Bottle,Accessories,5,376.74,0.2,Credit Card,Mobile App,Pending,aarav94@example.com
+ORD50202,06-09-2025,CUST1006,Aarav Sharma,Delhi,Backpack,Accessories,5,1371.87,0.15,UPI,Online,Pending,meera59@example.com
+ORD50162,11-05-2025,CUST1010,Meera Iyer,Hyderabad,Backpack,Accessories,2,1446.64,0,Net Banking,Mobile App,Pending,aarav35@example.com
+ORD50078,05-06-2025,CUST1012,Ananya Roy,Mumbai,Keyboard,Electronics,1,1552.95,0.15,Cash,Store,Returned,rahul54@example.com
+ORD50196,22-01-2025,CUST1027,Rohan Bose,Delhi,Notebook,Stationery,5,70.49,0.05,debit card,Online,Returned,kabir45@example.com
+ORD50065,17-08-2025,CUST1044,Ishita Gupta,Pune,Desk Lamp,Electronics,4,1202.36,0.15,Debit Card,Online,Pending,rohan30@example.com
+ORD50125,29-07-2025,CUST1016,Ishita Gupta,Delhi,Pen Pack,Stationery,4,123.02,0.15,Cash,App,CANCELLED ,rahul71@example.com
+ORD50220,31-01-2025,CUST1011,Aarav Sharma,Bengaluru,Backpack,Accessories,2,1455.75,0.2,Cash,Mobile App,Cancelled,meera96@example.com
+ORD50091,21-11-2025,CUST1027,Rohan Bose,Pune,Desk Lamp,Electronics,4,1027.31,0.15,Debit Card,Online,Cancelled,kabir93@example.com
+ORD50214,02-03-2025,CUST1042,Rohan Bose,Chennai,Keyboard,Electronics,3,1493.22,0.2,upi,Store,Delivered,meera59@example.com
+ORD50176,13-02-2025,CUST1031,Diya Sen,Delhi,Keyboard, Electronics ,5,1472.99,0.1,Credit Card,Store,PENDING,missing-at-sign.com
+ORD50047,19-04-2025,CUST1043,Kabir Mehta,Chennai,Water Bottle,Accessories,3,334.73,0.2,UPI,Mobile App,Pending,diya31@example.com
+ORD50013,02-02-2025,CUST1029,Sana Khan,Bangalore,Water Bottle,Accessories,1,339.35,0, UPI ,Mobile App,Delivered,ananya9@example.com
+ORD50068,17-11-2025,CUST1004,Sana Khan,Delhi,Backpack,Accessories,4,1610.7,0.05,Debit Card, ONLINE ,Delivered,rohan13@example.com
+ORD50170,09-01-2025,CUST1022,Diya Sen,Unknown,Study Table,Furniture,5,8700.87,0.2,Credit Card,online,Pending,kabir46@example.com
+ORD50088,15-10-2025,CUST1052,Ishita Gupta,  Pune ,Laptop,Electronics,5,61122.87,0,debit card,Mobile App,Cancelled,ishita14@example.com
+ORD50095,22-01-2025,CUST1058,Diya Sen,Hyderabad,Backpack,Accessories,0,1354.9,0.2,Cash,Mobile App,Returned,rohan38@example.com
+ORD50094,11-05-2025,CUST1015,Aarav Sharma,Jaipur,Study Table,Furniture,2,8373.07,0.15,Credit Card,online,Returned,ananya65@example.com
+ORD50123,13-06-2025,CUST1008,Arjun Nair,Chennai,Keyboard, Electronics ,4,1567.23,0.1,Credit Card,Mobile App,PENDING,ishita66@example.com
+ORD50131,07-05-2025,CUST1006,Kabir Mehta,Pune,Water Bottle,Accessories,1,340.72,0.2,Cash,online,Pending,ishita74@example.com
+ORD50099,05-06-2025,CUST1007,Ishita Gupta,Delhi,Wireless Mouse,Electronics,4,857.18,0.1,Cash,Store,Delivered,aarav48@example.com
+ORD50177,07-06-2025,CUST1034,Diya Sen,Mumbai,Notebook,STATIONERY,1,60.99,0,Credit card,Store,Returned,rohan14@example.com
+ORD50215,18-10-2025,CUST1020,Kabir Mehta,Delhi,Backpack,Accessories,3,1350.08,0.2,UPI,Online,Delivered,aarav2@example.com
+ORD50085,08-10-2025,CUST1048,Sana Khan,Chennai,Study Table,Furniture,5,8163.6,0.15,Net Banking,Mobile App,Returned,diya90@example.com
+ORD50169,13-11-2025,CUST1062,Aarav Sharma,Kolkata,Backpack,Accessories,4,1442.23,0.2,Net Banking,Store,Delivered,aarav68@example.com
+ORD50163,07-02-2025,CUST1061,Ananya Roy,Hyderabad,Pen Pack,Stationery,5,124.87,0.1,UPI,online,Pending,diya96@example.com
+ORD50147,21-06-2025,CUST1063,Rahul Das,Jaipur,Study Table,Furniture,5,8116.34,0.1,Credit Card,Online,Cancelled,  test@example.com 
+ORD50043,,CUST1039,Diya Sen,Kolkata,Notebook,Stationery,2,67.68,0.1,Net Banking,Mobile App,Returned,rohan92@example.com
+ORD50172,29-03-2025,CUST1055,Ishita Gupta,Delhi,Water Bottle,Accessories,1,366.57,-0.1,UPI,Online,PENDING,meera35@example.com
+ORD50159,04-10-2025,CUST1017,Arjun Nair,Chennai,Laptop,Electronics,4,55428.59,0.05,Net Banking,Store,Cancelled,ananya39@example.com
+ORD50019,29-09-2025,CUST1010,Rahul Das,Delhi,  Laptop ,ELECTRONICS,5,55844.67,0.2,UPI,App,Pending,rohan16@example.com
+ORD50150,10-21-2025,CUST1046,Ananya Roy,Kolkata,Study Table,Furniture,3,,0,Cash,Store,PENDING,rohan88@example.com
+ORD50155,05-10-2025,CUST1060,Aarav Sharma,Chennai,Pen Pack,stationary,3,127.21,0.15,Credit Card, ONLINE ,Returned,ishita49@example.com
+ORD50086,21-04-2025,CUST1029,Rohan Bose,Hyderabad,Wireless Mouse,Electronics,5,904.54,0.15,Cash,Store,Delivered,ishita55@example.com
+ORD50219,29-07-2025,CUST1044,Aarav Sharma,Hyderabad,Backpack,Accessories,2,1377.66,0,Cash,App,canceled,missing-at-sign.com
+ORD50026,14-10-2025,CUST1019,Ananya Roy,MUMBAI,Office Chair,Furniture,1,6142.56,0.05,Cash,Online,Delivered,ishita53@example.com
+ORD50054,08-08-2025,CUST1012,Ananya Roy,Bengaluru,Water Bottle,Accessories,3,382.21,0.1,upi,Online,Pending,rahul71@example.com
+ORD50115,26-11-2025,CUST1061,Rahul Das,Mumbai,Notebook,Stationery,5,64.2,0,Cash,Online,Cancelled,ananya6@example.com
+ORD50002,15-10-2025,CUST1028,Meera Iyer,Chennai,Office Chair,Furniture,5,6450.5,0,Credit card,mobile app,Returned,ishita36@example.com
+ORD50143,10-02-2025,CUST1032,Meera Iyer,Bengaluru,Keyboard,Electronics,3,1299.78,0.05,Net Banking,Store,canceled,rahul14@example.com
+ORD50093,09-08-2025,CUST1062,Arjun Nair,Chennai,Office Chair,Furniture,5,5845.13,0,Credit Card,Store,DELIVERED,aarav27@example.com
+ORD50137,18-09-2025,CUST1038,Meera Iyer,Kolkata,Study Table,Furniture,5,7700.74,0.1,Debit Card,Mobile App, Delivered ,rohan75@example.com
+ORD50077,30-04-2025,CUST1041,Sana Khan,Bengaluru,Pen Pack,Stationery,3,113,0,Cash,Mobile App,Cancelled,missing-at-sign.com
+ORD50083,05-07-2025,CUST1057,Arjun Nair,Bengaluru,Wireless Mouse,Electronics,4,858.21,0.2,UPI,mobile app,Cancelled,meera83@example.com
+ORD50198,24-05-2025,CUST1041,Kabir Mehta,Chennai,Laptop,Electronics,5,,0.2,Debit Card,Mobile App,delivered,rahul97@example.com
+ORD50030,03-10-2025,CUST1046,Rohan Bose,Delhi,Pen Pack,STATIONERY,1,122.88,0.1,Net Banking,Store,DELIVERED,kabir65@example.com
+ORD50114,10-05-2025,CUST1045,Diya Sen,Hyderabad,Laptop,Electronics,4,-999,0.05,UPI,mobile app,canceled,rahul6@example.com
+ORD50006,24-11-2025,CUST1041,Aarav Sharma,Bengaluru,Water Bottle,Accessories,4,340.9,0,Debit Card,Store,Cancelled,diya28@example.com
+ORD50158,09-01-2025,CUST1008,Diya Sen,Kolkata,  Pen Pack ,Stationery,5,128.79,0.15,Net Banking,Mobile App,delivered,ananya95@example.com
+ORD50171,27-07-2025,CUST1028,Kabir Mehta,Delhi,Study Table,Furniture,4,7299.27,0,UPI,Store,Returned,rohan71@example.com
+ORD50080,04-03-2025,CUST1011,Ananya Roy,kolkata,Pen Pack,Stationery,3,114.96,0,debit card,online,Pending,ananya9@example.com
+ORD50103,20-06-2025,CUST1044,Kabir Mehta,Pune,Study Table,Furniture,5,8538.32,0.05,Net Banking,Mobile App,Delivered,kabir72@example.com
+ORD50110,13-06-2025,CUST1018,Rahul Das,Kolkata,Wireless Mouse,Electronics,3,820.17,0.1,Cash,App,Pending,meera58@example.com
+ORD50089,04-09-2025,CUST1044,Arjun Nair,Hyderabad,Desk Lamp,Electronics,5,1058.8,1.5,Debit Card,Mobile App,Pending,rohan72@example.com
+ORD50035,04-03-2025,CUST1059,Unknown,Hyderabad,Backpack,Accessories,2,1600.07,0.15,Net Banking,Mobile App,Returned,Not provided
+ORD50129,06-04-2025,CUST1051,Kabir Mehta,Jaipur,Backpack,Accessories,3,1520.15,0, UPI ,Online,Returned,rohan62@example.com
+ORD50127,09-05-2025,CUST1016,Kabir Mehta,Delhi,Backpack,Accessories,3,1579.32,0.2,Credit card,Mobile App,pending,rahul85@example.com
+ORD50071,05-01-2025,CUST1036,Arjun Nair,Mumbai,Study Table,Furniture,4,7574.31,0,Cash,Store,Cancelled,rohan89@example.com
+ORD50189,27-07-2025,CUST1023,Rohan Bose,Pune,Pen Pack,Stationery,4,115.96,0,Net Banking,Online,Returned,Not provided
+ORD50179,04-06-2025,CUST1018,Diya Sen,Mumbai,Pen Pack,Stationery,2,113.73,0.15,Debit Card,Store,Cancelled,meera10@example.com
+ORD50056,17-11-2025,CUST1054,Diya Sen,Bengaluru,Office Chair,Furniture,3,6680.91,0.05,Debit Card,Online,Delivered,aarav22@example.com
+ORD50138,16-05-2025,CUST1006,Sana Khan,Jaipur,Study Table,Furniture,1,8107.18,0.05,Net Banking,Mobile App,Returned,not_an_email
+ORD50139,26-02-2025,CUST1056,Ishita Gupta,Pune,Office Chair,Furniture,1,6413.99,,Cash,mobile app,Pending,rohan65@example.com
+ORD50156,04-10-2025,CUST1015,Rahul Das,Pune,Water Bottle,Accessories,4,348.3,0.2,Credit Card,Mobile App,Pending,aarav97@example.com
+ORD50116,08-06-2025,CUST1060,Kabir Mehta,Kolkata,Office Chair,Furniture,1,6095.34,0.05,Debit Card,Store,Delivered,Not provided
+ORD50141,26-11-2025,CUST1061,  Ananya Roy ,Bengaluru,Backpack,Accessories,3,1492.42,0.1,Net Banking,Store,Pending,kabir99@example.com
+ORD50152,22-04-2025,CUST1010,Arjun Nair,Unknown,Backpack,Accessories,4,1553.63,0.2,Debit Card,Online,Delivered,aarav71@example.com
+ORD50216,16-07-2025,CUST1004,Arjun Nair,Pune,Office Chair,Furniture,1,6288.99,0.05,debit card,Online,Returned,ishita35@example.com
+ORD50161,12-07-2025,CUST1030,Ananya Roy,Chennai,Pen Pack,stationary,4,113.98,0.05,Cash,online,Returned,rohan72@example.com
+ORD50024,22-05-2025,CUST1042,Rahul Das,Chennai,  Laptop ,Electronics,1,57577.13,0.05,Cash,Mobile App,Returned,aarav15@example.com
+ORD50079,24-05-2025,CUST1027,Meera Iyer,Jaipur,Wireless Mouse, Electronics ,4,886.66,0.05,Debit Card,Online,Cancelled,ishita8@example.com
+ORD50059,15-08-2025,CUST1055,Meera Iyer,Delhi,Keyboard,Electronics,4,-999,0.15,Debit Card,Store,Cancelled,ishita86@example.com
+ORD50121,29-09-2025,CUST1040,Kabir Mehta,Bengaluru,Water Bottle,Accessories,1,0,0,UPI,Mobile App,Pending,meera67@example.com
+ORD50067,08-01-2025,CUST1052,Rahul Das,  Delhi ,Wireless Mouse,Electronics,5,936.78,0.15,Not specified,Store,Returned,diya43@example.com
+ORD50148,08-01-2025,CUST1037,Sana Khan,Bengaluru,Water Bottle,Accessories,3,372.3,0.05,Net Banking,Mobile App,Returned,rohan66@example.com
+ORD50107,29-08-2025,CUST1047,Sana Khan,Jaipur,Backpack,Accessories,2,1423.75,0.15,Debit Card,Store,Returned,rahul26@example.com
+ORD50053,16-10-2025,CUST1031,Diya Sen,Pune,Desk Lamp,Electronics,1,1045.38,0.2,Net Banking,Mobile App,Pending,rohan58@example.com
+ORD50041,04-08-2025,CUST1060,Aarav Sharma,Kolkata,Pen Pack,Stationery,3,128.45,0.1,Credit Card,Mobile App,Delivered,aarav97@example.com
+ORD50133,25-05-2025,CUST1036,Arjun Nair,Kolkata,Desk Lamp,Electronics,3,1022.7,0,Cash,Online,Cancelled,ishita98@example.com
+ORD50128,16-10-2025,CUST1010,Aarav Sharma,Chennai,Desk Lamp,Electronics,5,1086.28,0.05,Net Banking,Store,Delivered,meera81@example.com
+ORD50212,12-08-2025,CUST1007,Ananya Roy,Delhi,Desk Lamp,Electronics,1,1080.24,0.15,UPI,Store,Delivered,kabir86@example.com
+ORD50208,27-11-2025,CUST1036,Aarav Sharma,Chennai,Notebook,Stationery,2,63.02,0.05,Net Banking,Mobile App,Pending,rohan38@example.com
+ORD50025,09-Jul-25,CUST1055,Unknown,Kolkata,Wireless Mouse,Electronics,2,874.75,0.1,debit card,Online,Cancelled,ananya88@example.com
+ORD50015,09-08-2025,CUST1052,Meera Iyer,Kolkata,Office Chair,Furniture,1,5824.19,0,UPI,Store,CANCELLED ,diya32@example.com
+ORD50063,30-05-2025,CUST1053,Meera Iyer,Jaipur,Wireless Mouse,Electronics,2,866.72,0.05,Cash,App,Pending,rohan25@example.com
+ORD50036,07-05-2025,CUST1062,Ananya Roy,Chennai,Water Bottle,Accessories,4,340.14,0.15,UPI,Mobile App,Cancelled,ananya35@example.com
+ORD50044,18-11-2025,CUST1038,  Sana Khan ,Delhi,Office Chair,Furniture,1,6438.2,0.2,upi,Store,Returned,ishita9@example.com
+ORD50066,31-08-2025,CUST1049,Rahul Das,Jaipur,Pen Pack,Stationery,1,118.04,0,Credit Card,Mobile App,canceled,diya57@example.com
+ORD50175,11-11-2025,CUST1041,Aarav Sharma,Chennai,Wireless Mouse,Electronics,3,884.88,0.15,Cash,Online,Cancelled,rohan56@example.com
+ORD50046,31-10-2025,CUST1031,Diya Sen,Chennai,Backpack,Accessories,4,1468.81,0.15,Credit Card,Store,Returned,ishita4@example.com
+ORD50205,05-08-2025,CUST1061,Diya Sen,Bengaluru,Laptop,Electronics,3,59588.2,0.15,UPI,Mobile App,Delivered,diya41@example.com
+ORD50166,24-10-2025,CUST1037,Rahul Das,Bengaluru,Study Table,Furniture,5,8634.22,0.1,Credit Card,Store,Pending,meera71@example.com
+ORD50048,04-05-2025,CUST1062,Meera Iyer,Kolkata,Pen Pack,Stationery,N/A,123.72,0,debit card,Online,Returned,ananya40@example.com
+ORD50034,16-07-2025,CUST1031,Rahul Das,Unknown,Pen Pack,Stationery,5,115.07,0,Cash, ONLINE ,Pending,meera7@example.com
+ORD50060,11-09-2025,CUST1004,Meera Iyer,Delhi,Wireless Mouse,Electronics,2,838.07,0.1,Debit Card,Store,Delivered,Not provided
+ORD50100,16-02-2025,CUST1059,Sana Khan,Kolkata,Study Table,Furniture,-2,8181.68,0.15,Net Banking,Mobile App,Pending,ishita78@example.com
+ORD50197,02-03-2025,CUST1026,Sana Khan,Hyderabad,Wireless Mouse,Electronics,4,929.1,0.2,Cash,Online,Pending,ananya27@example.com
+ORD50075,20-05-2025,CUST1032,Meera Iyer,Chennai,Notebook,Stationery,5,66.32,0.1,Not specified,Store,DELIVERED,rahul97@example.com
+ORD50207,15-08-2025,CUST1011,Diya Sen,Mumbai,Keyboard,Electronics,4,1460.5,,Net Banking,Mobile App,Returned,ishita55@example.com
+ORD50120,04-02-2025,CUST1046,Rohan Bose,KOLKATA,Desk Lamp,Electronics,4,1019.66,0.2,Credit Card,Mobile App,Returned,ishita48@example.com
+ORD50090,13-10-2025,CUST1003,Rahul Das,Chennai,Desk Lamp,Electronics,5,1160.49,0.1,Debit Card,Store,DELIVERED,rahul19@example.com
+ORD50108,27-01-2025,CUST1047,Arjun Nair,Delhi,Desk Lamp,Electronics,2,1204.06,0.2,UPI,Store,Delivered,rahul35@example.com
+ORD50026,14-10-2025,CUST1019,Ananya Roy,MUMBAI,Office Chair,Furniture,1,6142.56,0.05,Cash,Online,Pending,ishita53@example.com
+ORD50146,20-01-2025,CUST1022,Aarav Sharma,Unknown,Desk Lamp,Electronics,2,1129.73,0.15,Credit Card,Mobile App,Cancelled,aarav2@example.com
+ORD50022,05-02-2025,CUST1036,Unknown,Jaipur,Study Table,Furniture,2,8631.88,,Debit Card,Mobile App,Delivered,kabir85@example.com
+ORD50105,01-06-2025,CUST1064,Arjun Nair,KOLKATA,Office Chair,Furniture,2,5896.13,0.1,Net Banking,Online,Returned,rahul21@example.com
+ORD50136,31-08-2025,CUST1019,Sana Khan,Mumbai,Laptop,Electronics,2,58449.51,0.1,Net Banking,Store,Pending,rohan79@example.com
+ORD50190,02-Feb-25,CUST1023,Ishita Gupta,Hyderabad,Laptop,Electronics,2,52863.63,0.05,Cash,Online,Cancelled,meera68@example.com
+ORD50187,22-08-2025,CUST1061,Ishita Gupta,Jaipur,Keyboard,Electronics,3,1375.33,0,Cash,Mobile App,Returned,ishita9@example.com
+ORD50164,15-04-2025,CUST1041,Unknown,Pune,Water Bottle,Accessories,2,370.69,0.15,Net Banking,Mobile App,Cancelled,kabir34@example.com
+ORD50181,01-11-2025,CUST1041,Sana Khan,Bengaluru,Water Bottle,Accessories,3,352.14,0.15,Debit Card,Online,Returned,ishita38@example.com
+ORD50037,11-02-2025,CUST1029,Rohan Bose,Mumbai,Notebook,Stationery,3,71.41,0.05,UPI,Store,Returned,ishita70@example.com
+ORD50016,13-03-2025,CUST1035,Meera Iyer,Unknown,Office Chair,Furniture,2,6368.99,0,Cash,mobile app,Delivered,aarav84@example.com
+ORD50118,03-04-2025,CUST1041,Diya Sen,Delhi,Pen Pack,Stationery,1,120.73,0.1,Debit Card,Store,Returned,rohan22@example.com
+ORD50021,03-06-2025,CUST1009,Aarav Sharma,Jaipur,Pen Pack,stationary,2,126.52,0.2,Net Banking,Online,Delivered,missing-at-sign.com
+ORD50073,26-01-2025,CUST1036,Ananya Roy,Hyderabad,Pen Pack,Stationery,3,110.59,0.05,Credit Card,Mobile App,canceled,rahul81@example.com
+ORD50209,27-02-2025,CUST1009,Arjun Nair,Kolkata,Laptop,Electronics,2,56043.76,0.1,Debit Card,Online,Returned,rohan47@example.com
+ORD50194,16-07-2025,CUST1052,Meera Iyer,Pune,Water Bottle,Accessories,2,335.66,0.15,Cash,Online,Delivered,aarav98@example.com
+ORD50111,10-01-2025,CUST1019,Arjun Nair,Pune,Desk Lamp,Electronics,1,1211.29,0,Debit Card,Online,Cancelled,diya7@example.com
+ORD50027,25-02-2025,CUST1060,  Ananya Roy ,Bengaluru,Office Chair,Furniture,3,5901.41,0.15,Debit Card,Store,Pending,ananya4@example.com
+ORD50206,10-03-2025,CUST1008,Arjun Nair,Kolkata,Notebook,Stationery,3,61.58,0.2,Not specified,Store,canceled,ananya81@example.com
+ORD50124,13-03-2025,CUST1003,Ishita Gupta,Hyderabad,Office Chair,Furniture,1,6925.56,0.15,Net Banking, ONLINE ,Delivered,diya40@example.com
+ORD50188,28-Feb-25,CUST1013,  Rahul Das ,Bengaluru,Study Table,Furniture,1,8439.89,0.2,Credit Card,Mobile App,PENDING,ishita72@example.com
+ORD50180,17-11-2025,CUST1058,Diya Sen,Mumbai,Notebook,Stationery,3,72.07,0.1,UPI,Store,Cancelled,Not provided
+ORD50009,28-09-2025,CUST1014,Arjun Nair,Chennai,Pen Pack,Stationery,5,134.31,0.1,UPI,Store,Returned,rahul59@example.com
+ORD50191,20-07-2025,CUST1044,Ishita Gupta,Jaipur,Notebook,STATIONERY,5,64.85,0.2,Credit card,Mobile App,Cancelled,diya87@example.com
+ORD50061,28-01-2025,CUST1063,Meera Iyer,Kolkata,Laptop,Electronics,5,55681.74,0.05,Not specified,Mobile App,PENDING,missing-at-sign.com
+ORD50050,02-10-2025,CUST1024,Ananya Roy,Jaipur,Office Chair,Furniture,3,5852.25,0.1,Net Banking,Mobile App,Cancelled,diya25@example.com
+ORD50051,04-06-2025,CUST1035,Aarav Sharma,Kolkata,Study Table,Furniture,2,7738.97,0.2,Debit Card,Mobile App,PENDING,meera14@example.com
+ORD50084,25-07-2025,CUST1062,Meera Iyer,Delhi,Laptop,Electronics,1,61584.45,0,Debit Card,App,Pending,Not provided
+ORD50028,,CUST1044,Arjun Nair,Pune,Office Chair,Furniture,4,,0.2,Debit Card,online,Delivered,kabir23@example.com
+ORD50057,19-10-2025,CUST1015,Meera Iyer,Chennai,Study Table,Furniture,5,8344.37,0.15,Debit Card,Mobile App,Returned,meera11@example.com
+ORD50142,09-08-2025,CUST1044,Arjun Nair,Chennai,Study Table,Furniture,2,8252.77,0.1,upi,App,Returned,rohan45@example.com
+ORD50122,14-05-2025,CUST1027,Sana Khan,Chennai,Pen Pack,Stationery,5,113.23,0.15,Credit Card,Online,Pending,not_an_email
+ORD50183,30-05-2025,CUST1052,Meera Iyer,Mumbai,Water Bottle,Accessories,2,352.69,0.1,Credit Card,Store,Pending,not_an_email
+ORD50045,04-08-2025,CUST1013,Rohan Bose,Hyderabad,Backpack,Accessories,3,1337.67,0.15,Credit Card,Store,Pending,kabir79@example.com
+ORD50003,22-06-2025,CUST1048,Diya Sen,Hyderabad,Keyboard, Electronics ,2,1556.02,0.1,Net Banking,Store,Delivered,meera69@example.com
+ORD50204,30-04-2025,CUST1012,Aarav Sharma,Bengaluru,Pen Pack,Stationery,3,127.82,0.15,UPI,Online,Pending,meera2@example.com
+ORD50134,27-01-2025,CUST1046,Arjun Nair,Chennai,Pen Pack,Stationery,3,111.49,0,Cash,Mobile App,Returned,kabir80@example.com
+ORD50062,19-11-2025,CUST1020,Kabir Mehta,Kolkata,Water Bottle,Accessories,1,324.02,0.2,Cash,Online,Pending,diya60@example.com
+ORD50033,01-05-2025,CUST1028,Ananya Roy,Mumbai,Backpack,Accessories,5,1431.2,0,UPI,Online,Returned,diya59@example.com
+ORD50178,17-02-2025,CUST1049,Aarav Sharma,Chennai,Laptop,electronics,1,54493.06,0.15,Cash,Online,Pending,rahul88@example.com
+ORD50211,03-10-2025,CUST1035,Diya Sen,Chennai,Pen Pack,Stationery,1,125.77,0,Net Banking,Online,Pending,ishita51@example.com
+ORD50031,01-06-2025,CUST1024,Rohan Bose,Pune,Study Table,Furniture,4,7684.85,0.05,Net Banking,App,Cancelled,rohan71@example.com
+ORD50186,29-10-2025,CUST1044,Aarav Sharma,Jaipur,Notebook,Stationery,4,65.82,0,debit card,Store,Delivered,diya94@example.com
+ORD50210,07-02-2025,CUST1001,Unknown,Bengaluru,Backpack,Accessories,2,1555.19,0,UPI,Store,Cancelled,rohan55@example.com
+ORD50167,08-09-2025,CUST1058,Rahul Das,Hyderabad,Notebook,Stationery,3,69.72,0.05,credit_card,Mobile App,Returned,rahul70@example.com
+ORD50007,13-09-2025,CUST1018,Kabir Mehta,Mumbai,Desk Lamp, Electronics ,3,1058.78,0.05,Net Banking,Mobile App,canceled,rohan75@example.com
+ORD50064,11-03-2025,CUST1035,Rohan Bose,Hyderabad,Desk Lamp,ELECTRONICS,5,1176.18,0.2,Debit Card,Online,Cancelled,kabir76@example.com
+ORD50132,13-09-2025,CUST1063,Kabir Mehta,Jaipur,Notebook,Stationery,2,69.72,0,UPI,Store,Returned,ananya28@example.com
+ORD50011,07-06-2025,CUST1030,Sana Khan,Delhi,Laptop,Electronics,1,60820.08,0,Cash,Online,Pending,rahul85@example.com
+ORD50185,10-11-2025,CUST1042,Rohan Bose,Delhi,Office Chair,Furniture,3,5910.26,0,UPI,Store,Pending,ananya58@example.com
+ORD50042,01-11-2025,CUST1030,Rahul Das,Jaipur,  Laptop ,electronics,2,52792.97,0,Net Banking,Online,Returned,kabir99@example.com
+ORD50018,12-10-2025,CUST1019,Ananya Roy,Chennai,Study Table,Furniture,4,7620.99,0.05,UPI,Mobile App,Delivered,ishita8@example.com
+ORD50130,15-03-2025,CUST1044,Unknown,MUMBAI,Water Bottle,Accessories,2,345.81,0.1,Net Banking,Mobile App,Delivered,ishita31@example.com
+ORD50008,12-03-2025,CUST1011,Aarav Sharma,Delhi,Pen Pack,Stationery,3,115.66,0.05,credit_card,Mobile App,Returned,diya50@example.com
+ORD50173,24-05-2025,CUST1022,Ishita Gupta,Kolkata,Laptop,Electronics,1,58128.72,0.05,Net Banking,Online,Returned,diya39@example.com
+ORD50213,12-03-2025,CUST1020,Meera Iyer,Hyderabad,Keyboard,Electronics,1,1291.55,0.2,Net Banking,Mobile App,Cancelled,Not provided
+ORD50040,,CUST1023,Aarav Sharma,Chennai,Desk Lamp,Electronics,1,1030.47,0.15,Debit Card,Online,Returned,ishita44@example.com
+ORD50069,03-06-2025,CUST1041,Aarav Sharma,Chennai,Wireless Mouse,electronics,4,unknown,0.1,Debit Card,Store,Pending,ananya68@example.com
+ORD50032,09-08-2025,CUST1059,Meera Iyer,Jaipur,Laptop,electronics,3,53756.05,0.05,Net Banking,Store,Pending,diya37@example.com
+ORD50023,24-02-2025,CUST1034,Kabir Mehta, bengaluru ,Wireless Mouse,Electronics,2,826.96,0.1,Credit Card,mobile app,Cancelled,meera33@example.com
+ORD50174,19-07-2025,CUST1049,Rahul Das,Delhi,Keyboard,Electronics,5,1355.33,0.2,Debit Card,Online,Delivered,rohan30@example.com
+ORD50058,15-06-2025,CUST1003,Diya Sen,Bengaluru,Desk Lamp,Electronics,1,1207.67,0.2,Net Banking,Online,Cancelled,aarav98@example.com
+ORD50151,24-11-2025,CUST1028,Ananya Roy,Mumbai,Backpack,Accessories,3,1534.18,0.15,Credit Card,Store,Cancelled,rohan90@example.com
+ORD50135,19-02-2025,CUST1043,Arjun Nair,Hyderabad,Desk Lamp,Electronics,1,1040.31,0.05,Credit Card,Mobile App,Returned,aarav6@example.com
+ORD50144,26-01-2025,CUST1029,Aarav Sharma,Delhi,Desk Lamp,electronics,5,1064.64,0.15,Debit Card,Mobile App,Returned,diya88@example.com
+ORD50112,15-11-2025,CUST1014,Meera Iyer,Unknown,Office Chair,Furniture,4,6496.3,0.2,Net Banking,Online,Pending,kabir55@example.com
+,,,,Unknown,,,,,,Not specified,,,
+,,,,Unknown,,,,,,Not specified,,,
+,,,,Unknown,,,,,,Not specified,,,
+,,,,Unknown,,,,,,Not specified,,,
